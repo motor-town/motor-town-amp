@@ -1,7 +1,7 @@
 Meta.DisplayName=Motor Town: Behind the Wheel
 Meta.Description=Motor Town: Behind the Wheel Dedicated Server
 Meta.Arch=x86_64
-Meta.Author=Onkelz-Freak1993 - Made with AMP Config Generator
+Meta.Author=Onkelz-Freak1993
 Meta.URL=http://steamcommunity.com/app/2223650
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=cubecoders/ampbase:wine
