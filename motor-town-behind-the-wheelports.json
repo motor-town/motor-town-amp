@@ -1,0 +1,37 @@
+[
+    {
+        "Protocol": "Both",
+        "Port": "27015",
+        "Name": "Steam Query Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "SteamQueryPort"
+    },
+    {
+        "Protocol": "Both",
+        "Port": "8080",
+        "Name": "HTTP",
+        "Description": "Port used for main game traffic",
+        "Ref": "HTTP"
+    },
+    {
+        "Protocol": "Both",
+        "Port": "49855",
+        "Name": "Main Game Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "MainGamePort"
+    },
+    {
+        "Protocol": "Both",
+        "Port": "49868",
+        "Name": "",
+        "Description": "Port used for main game traffic",
+        "Ref": ""
+    },
+    {
+        "Protocol": "Both",
+        "Port": "49880",
+        "Name": "Port 2",
+        "Description": "Port used for main game traffic",
+        "Ref": "Port2"
+    }
+]
