@@ -4,7 +4,7 @@
         "UpdateSourcePlatform": "All",
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "2223650",
-        "UpdateSourceArgs": "2223650 -beta test -betapassword motortowndedi validate",
+        "UpdateSourceArgs": "2223650",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "ForceDownloadPlatform": "Linux",
