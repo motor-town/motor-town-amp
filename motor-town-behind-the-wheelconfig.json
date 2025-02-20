@@ -3,7 +3,7 @@
         "DisplayName": "Beta",
         "Category": "Updates",
         "Subcategory": "Steam Downloads:download",
-        "Description": "\"public\" is default. \"test\" is beta. NOTE: Update the server after changing release streams.",
+        "Description": "\"public\" is default. \"beta\" is beta, \"test\" is for testers that want to play the next update early. NOTE: Update the server after changing release streams.",
         "Keywords": "use,experimental,release,stream",
         "FieldName": "Stream",
         "InputType": "text",
