@@ -2,8 +2,8 @@
   {
         "DisplayName": "Server Version",
         "Category": "System Settings",
-        "Subcategory": "Betas:download",
-        "Description": "\"public\" is default. \"beta\" is beta, \"test\" is for testers that want to play the next update early. NOTE: Update the server after changing release streams.",
+        "Subcategory": "Beta Streams:download",
+        "Description": "\"public\" is default. \"beta\" is beta, \"test\" is for testers that want to play the next update early.\nNOTE: To update to the beta or the testing Stream, type \"beta -betapassword motortowndedi\" or \"test -betapassword motortowndedi\". Update the server after changing release streams.",
         "Keywords": "public,beta,test",
         "FieldName": "Stream",
         "InputType": "text",
