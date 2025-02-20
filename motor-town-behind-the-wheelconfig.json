@@ -1,6 +1,6 @@
 [
   {
-        "DisplayName": "Beta",
+        "DisplayName": "test",
         "Category": "System Settings",
         "Subcategory": "Steam Downloads:download",
         "Description": "\"public\" is default. \"beta\" is beta, \"test\" is for testers that want to play the next update early. NOTE: Update the server after changing release streams.",
