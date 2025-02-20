@@ -5,6 +5,7 @@
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "2223650",
         "UpdateSourceArgs": "2223650",
+        "UpdateSourceVersion": "{{Beta}}",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "ForceDownloadPlatform": "Linux",
