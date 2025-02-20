@@ -5,7 +5,7 @@
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "2223650",
         "UpdateSourceArgs": "2223650",
-        "UpdateSourceVersion": "{{Stream}}",
+        "UpdateSourceVersion": "{{Stream}} -betapassword motortowndedi",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "ForceDownloadPlatform": "Linux",
